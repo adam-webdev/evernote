@@ -1,0 +1,14 @@
+.sugges{
+    border:1px solid rgba(0,0,0,0.1);
+  }
+  .sugges-list{
+    margin-top: 5px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+  }
+  .sugges-list:hover{
+    background-color: rgb(132, 132, 255);
+    cursor: pointer;
+    color: #fff;
+  }
