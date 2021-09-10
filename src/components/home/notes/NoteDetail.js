@@ -14,7 +14,7 @@ const NoteDetail = (props) => {
     }
     return (
 
-        <div className="container">
+        <div className="container" style={{marginTop:"80px"}}>
             <div className="card z-depth-0">
                 <div className="card-content">
                     <span className="card-title">{note?.title}</span>
